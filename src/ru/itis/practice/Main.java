@@ -7,8 +7,6 @@ import ru.itis.practice.repositories.StudentRepository;
 import ru.itis.practice.repositories.StudentRepositoryJDBC;
 
 import java.sql.*;
-import java.util.Collections;
-import java.util.List;
 
 public class Main {
 
